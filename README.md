@@ -1,5 +1,8 @@
 # Cos Lettuce Growth Stage Image Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21188435.svg)](https://doi.org/10.5281/zenodo.21188435)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Images of Cos lettuce (*Lactuca sativa* var. *longifolia*) collected across three
 growth stages — **small** (seedling), **medium** (mid-growth), and **large**
 (near-harvest) — from a controlled indoor farming system and from Hydro Green
@@ -12,7 +15,9 @@ and computer-vision browning detection, as described in the associated publicati
 Chaoraingern, J., Pattaraanuvong, A., Paraksa, K., Khunthong, K., Nontiwantok, T.,
 and Numsomran, A. *"Agentic AI-Driven Cultivation Advisory and Plant Disease
 Diagnosis in a Controlled Indoor Farming System."* **AgriEngineering** (MDPI), 2026.
-*(DOI to be assigned)*
+
+**Dataset DOI:** [10.5281/zenodo.21188435](https://doi.org/10.5281/zenodo.21188435)
+*(concept DOI — always resolves to the latest version)*
 
 ## Dataset contents
 
