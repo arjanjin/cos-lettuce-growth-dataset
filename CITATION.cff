@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the associated publication below."
+title: "Cos Lettuce Growth Stage Image Dataset"
+abstract: >-
+  Images of Cos lettuce (Lactuca sativa var. longifolia) across three growth
+  stages (small/seedling, medium/mid-growth, large/near-harvest), collected from
+  a controlled indoor farming system and Hydro Green Garden Farm. Used to train
+  and evaluate a YOLOv11 model for growth-stage classification and browning
+  detection.
+type: dataset
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Chaoraingern
+    given-names: J.
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+  - family-names: Pattaraanuvong
+    given-names: A.
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+  - family-names: Paraksa
+    given-names: K.
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+  - family-names: Khunthong
+    given-names: K.
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+  - family-names: Nontiwantok
+    given-names: T.
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+  - family-names: Numsomran
+    given-names: Arjin
+    orcid: "https://orcid.org/0000-0002-1524-1443"
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+    email: arjin.nu@kmitl.ac.th
+keywords:
+  - lettuce
+  - Lactuca sativa
+  - growth stage classification
+  - YOLOv11
+  - controlled environment agriculture
+  - indoor farming
+  - plant disease diagnosis
+  - agentic AI
+preferred-citation:
+  type: article
+  title: "Agentic AI-Driven Cultivation Advisory and Plant Disease Diagnosis in a Controlled Indoor Farming System"
+  authors:
+    - family-names: Chaoraingern
+      given-names: J.
+    - family-names: Pattaraanuvong
+      given-names: A.
+    - family-names: Paraksa
+      given-names: K.
+    - family-names: Khunthong
+      given-names: K.
+    - family-names: Nontiwantok
+      given-names: T.
+    - family-names: Numsomran
+      given-names: Arjin
+      orcid: "https://orcid.org/0000-0002-1524-1443"
+  journal: "AgriEngineering"
+  publisher:
+    name: MDPI
+  year: 2026

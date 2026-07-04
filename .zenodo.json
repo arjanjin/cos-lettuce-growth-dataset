@@ -1,0 +1,25 @@
+{
+  "upload_type": "dataset",
+  "title": "Cos Lettuce Growth Stage Image Dataset",
+  "description": "Images of Cos lettuce (Lactuca sativa var. longifolia) across three growth stages (small/seedling, medium/mid-growth, large/near-harvest), collected from a controlled indoor farming system and Hydro Green Garden Farm (with consent). 301 JPEG images. Used to train and evaluate a YOLOv11 model for growth-stage classification and computer-vision browning detection. Bounding-box annotations are not included. Associated publication: Chaoraingern et al., 'Agentic AI-Driven Cultivation Advisory and Plant Disease Diagnosis in a Controlled Indoor Farming System', AgriEngineering (MDPI), 2026.",
+  "creators": [
+    { "name": "Chaoraingern, J.", "affiliation": "King Mongkut's Institute of Technology Ladkrabang (KMITL)" },
+    { "name": "Pattaraanuvong, A.", "affiliation": "King Mongkut's Institute of Technology Ladkrabang (KMITL)" },
+    { "name": "Paraksa, K.", "affiliation": "King Mongkut's Institute of Technology Ladkrabang (KMITL)" },
+    { "name": "Khunthong, K.", "affiliation": "King Mongkut's Institute of Technology Ladkrabang (KMITL)" },
+    { "name": "Nontiwantok, T.", "affiliation": "King Mongkut's Institute of Technology Ladkrabang (KMITL)" },
+    { "name": "Numsomran, Arjin", "affiliation": "King Mongkut's Institute of Technology Ladkrabang (KMITL)", "orcid": "0000-0002-1524-1443" }
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "keywords": [
+    "lettuce",
+    "Lactuca sativa",
+    "growth stage classification",
+    "YOLOv11",
+    "controlled environment agriculture",
+    "indoor farming",
+    "plant disease diagnosis",
+    "agentic AI"
+  ]
+}
