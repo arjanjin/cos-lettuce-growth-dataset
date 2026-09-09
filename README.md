@@ -12,9 +12,10 @@ and computer-vision browning detection, as described in the associated publicati
 
 ## Associated publication
 
-Chaoraingern, J., Pattaraanuvong, A., Paraksa, K., Khunthong, K., Nontiwantok, T.,
-and Numsomran, A. *"Agentic AI-Driven Cultivation Advisory and Plant Disease
-Diagnosis in a Controlled Indoor Farming System."* **AgriEngineering** (MDPI), 2026.
+MDPI and ACS Style
+Chaoraingern, J.; Pattaraanuvong, A.; Paraksa, K.; Khunthong, K.; Nontiwantok, T.; Numsomran, A. Agentic AI-Driven Cultivation Advisory and Symptom-Level Diagnostic Support in a Controlled Indoor Farming System. AgriEngineering 2026, 8, 350. 
+
+https://doi.org/10.3390/agriengineering8090350
 
 **Dataset DOI:** [10.5281/zenodo.21188435](https://doi.org/10.5281/zenodo.21188435)
 *(concept DOI — always resolves to the latest version)*
