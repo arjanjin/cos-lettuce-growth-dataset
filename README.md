@@ -1,6 +1,6 @@
 # Cos Lettuce Growth Stage Image Dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21188435.svg)](https://doi.org/10.5281/zenodo.21188435)
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Images of Cos lettuce (*Lactuca sativa* var. *longifolia*) collected across three
@@ -17,8 +17,6 @@ Chaoraingern, J.; Pattaraanuvong, A.; Paraksa, K.; Khunthong, K.; Nontiwantok, T
 
 https://doi.org/10.3390/agriengineering8090350
 
-**Dataset DOI:** [10.5281/zenodo.21188435](https://doi.org/10.5281/zenodo.21188435)
-*(concept DOI — always resolves to the latest version)*
 
 ## Dataset contents
 
